@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranjali287/Pranjali287/blob/main/Banner.png)
+![logo](https://github.com/Pranjali287/Pranjali287/blob/main/Github_Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Pranjali</h1>
 <h3 align="center">A passionate AIML Engineer from India</h3>
 <image align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"
